@@ -1,0 +1,4 @@
+# question
+Refer to the screenshot you uploaded for the previous question. Based on the confidence scores for labels provided by the AI model, versus what you can identify as a human, indicate whether the AI model did a good job of classifying your image? Explain.
+# answer
+me as a human identified it was dog. The AI did a great job in classifying the traits of the image. It's color was completely correct which was given the complete confidence limit. other traits were also correct even though the confidence limits was not high.
